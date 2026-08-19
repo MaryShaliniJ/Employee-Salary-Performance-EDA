@@ -1,4 +1,4 @@
-\# 📊 Employee Salary \& Performance Analysis using Python
+# 📊 Employee Salary \& Performance Analysis using Python
 
 
 
@@ -6,11 +6,11 @@ A Python-based data analysis project developed to analyze employee salary, exper
 
 
 
-The project demonstrates \*\*data inspection, data cleaning, exploratory data analysis (EDA), feature engineering, statistical analysis, data visualization, correlation analysis, and business insight generation\*\* using Pandas, NumPy, and Matplotlib.
+The project demonstrates data inspection, data cleaning, exploratory data analysis (EDA), feature engineering, statistical analysis, data visualization, correlation analysis, and business insight generation using Pandas, NumPy, and Matplotlib.
 
 
 
-\## 📌 Table of Contents
+## 📌 Table of Contents
 
 
 
