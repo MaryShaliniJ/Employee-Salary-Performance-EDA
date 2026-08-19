@@ -102,17 +102,15 @@ Business Insights
 
 
 
-\## 🟦 Objectives
+## 🟦 Objectives
 
 
 
-```markdown
-
-\---
+---
 
 
 
-\# 🎯 Objectives
+# 🎯 Objectives
 
 
 
@@ -120,61 +118,60 @@ The main objectives of this project are:
 
 
 
-\- Inspect and understand the employee dataset.
+- Inspect and understand the employee dataset.
 
-\- Identify the structure and data types of the dataset.
+- Identify the structure and data types of the dataset.
 
-\- Check for missing values and duplicate records.
+- Check for missing values and duplicate records.
 
-\- Analyze employee distribution across departments.
+- Analyze employee distribution across departments.
 
-\- Calculate salary and performance statistics.
+- Calculate salary and performance statistics.
 
-\- Create useful derived features.
+- Create useful derived features.
 
-\- Analyze salary distribution.
+- Analyze salary distribution.
 
-\- Compare departments based on salary and performance.
+- Compare departments based on salary and performance.
 
-\- Study the relationship between salary and experience.
+- Study the relationship between salary and experience.
 
-\- Identify potential salary outliers using the IQR method.
+- Identify potential salary outliers using the IQR method.
 
-\- Create visualizations to communicate analytical findings.
+- Create visualizations to communicate analytical findings.
 
-\- Generate business insights and recommendations.
-
-
-
-\---
+- Generate business insights and recommendations.
 
 
 
-\# 🛠 Technologies Used
+---
 
 
 
-\- Python
-
-\- Pandas
-
-\- NumPy
-
-\- Matplotlib
-
-\- Jupyter Notebook
+# 🛠 Technologies Used
 
 
 
-\---
+- Python
+
+- Pandas
+
+- NumPy
+
+- Matplotlib
+
+- Jupyter Notebook
 
 
 
-\# 📂 Project Structure
+---
 
 
 
-```text
+# 📂 Project Structure
+
+
+
 
 Employee-Salary-Performance-EDA/
 
@@ -224,21 +221,19 @@ Employee-Salary-Performance-EDA/
 
 
 
-\---
+---
 
 
 
-\## 🟦 Dataset
+## 🟦 Dataset
 
 
 
-```markdown
-
-\---
+---
 
 
 
-\# 📊 Dataset Information
+# 📊 Dataset Information
 
 
 
@@ -246,7 +241,7 @@ The dataset contains information about \*\*8 employees across 4 departments\*\*.
 
 
 
-\## Dataset Columns
+## Dataset Columns
 
 
 
@@ -266,11 +261,11 @@ The dataset contains information about \*\*8 employees across 4 departments\*\*.
 
 
 
-\---
+---
 
 
 
-\# 🔍 Data Analysis Process
+# 🔍 Data Analysis Process
 
 
 
@@ -278,7 +273,7 @@ The project follows several stages of analysis.
 
 
 
-\## 1. Data Inspection
+## 1. Data Inspection
 
 
 
@@ -286,17 +281,17 @@ The dataset was initially inspected using Pandas functions such as:
 
 
 
-\- `head()`
+- head()
 
-\- `shape`
+- shape
 
-\- `columns`
+- columns
 
-\- `dtypes`
+- dtypes
 
-\- `info()`
+- info()
 
-\- `describe()`
+- describe()
 
 
 
@@ -304,7 +299,7 @@ These functions were used to understand the structure, size, data types, and sta
 
 
 
-\## 2. Data Quality Checking
+## 2. Data Quality Checking
 
 
 
@@ -312,21 +307,21 @@ The dataset was checked for:
 
 
 
-\- Missing values
+- Missing values
 
-\- Duplicate records
+- Duplicate records
 
-\- Unique department values
+- Unique department values
 
-\- Data types
-
-
-
-The analysis found \*\*no missing values and no duplicate rows\*\* in the dataset.
+- Data types
 
 
 
-\## 3. Department Analysis
+The analysis found no missing values and no duplicate rows in the dataset.
+
+
+
+## 3. Department Analysis
 
 
 
@@ -350,95 +345,11 @@ Employee distribution was analyzed using department-level counts.
 
 
 
-\---
+---
 
 
 
-\# 🔍 Data Analysis Process
-
-
-
-The project follows several stages of analysis.
-
-
-
-\## 1. Data Inspection
-
-
-
-The dataset was initially inspected using Pandas functions such as:
-
-
-
-\- `head()`
-
-\- `shape`
-
-\- `columns`
-
-\- `dtypes`
-
-\- `info()`
-
-\- `describe()`
-
-
-
-These functions were used to understand the structure, size, data types, and statistical characteristics of the dataset.
-
-
-
-\## 2. Data Quality Checking
-
-
-
-The dataset was checked for:
-
-
-
-\- Missing values
-
-\- Duplicate records
-
-\- Unique department values
-
-\- Data types
-
-
-
-The analysis found \*\*no missing values and no duplicate rows\*\* in the dataset.
-
-
-
-\## 3. Department Analysis
-
-
-
-Employee distribution was analyzed using department-level counts.
-
-
-
-| Department | Employees |
-
-| --- | ---: |
-
-| IT | 3 |
-
-| HR | 2 |
-
-| Finance | 2 |
-
-| Sales | 1 |
-
-| \*\*Total\*\* | \*\*8\*\* |
-
-
-
-\---
-
-
-
-\# ⚙️ Feature Engineering
+# ⚙️ Feature Engineering
 
 
 
@@ -446,7 +357,7 @@ Additional categorical features were created from the existing numerical variabl
 
 
 
-\## Salary Level
+## Salary Level
 
 
 
@@ -454,7 +365,6 @@ Employees were categorized into salary levels based on salary values.
 
 
 
-```text
 
 Salary
 
@@ -468,7 +378,7 @@ High / Low
 
 
 
-\## Performance Level
+## Performance Level
 
 
 
@@ -476,7 +386,6 @@ Employees were categorized according to their performance scores.
 
 
 
-```text
 
 Performance
 
@@ -496,21 +405,20 @@ These derived features help convert numerical values into meaningful categories 
 
 
 
-\---
+---
 
 
 
-\## 🟦 Statistical Analysis
+## 🟦 Statistical Analysis
 
 
 
-```markdown
 
-\---
-
+---
 
 
-\# 📈 Statistical Analysis
+
+# 📈 Statistical Analysis
 
 
 
@@ -518,7 +426,7 @@ The project calculates several descriptive statistics.
 
 
 
-\## Salary Statistics
+## Salary Statistics
 
 
 
@@ -536,7 +444,7 @@ The project calculates several descriptive statistics.
 
 
 
-\## Experience and Performance
+## Experience and Performance
 
 
 
@@ -550,15 +458,15 @@ The project calculates several descriptive statistics.
 
 
 
-\---
+---
 
 
 
-\# 📊 Department Analysis
+# 📊 Department Analysis
 
 
 
-\## Average Salary by Department
+## Average Salary by Department
 
 
 
@@ -580,7 +488,7 @@ IT has the highest average salary, while HR has the lowest average salary in thi
 
 
 
-\## Average Performance by Department
+## Average Performance by Department
 
 
 
@@ -602,11 +510,11 @@ IT has the highest average performance score, while Sales has the lowest.
 
 
 
-\---
+---
 
 
 
-\# 🔬 Exploratory Data Analysis
+# 🔬 Exploratory Data Analysis
 
 
 
@@ -614,7 +522,7 @@ The project uses visualizations to explore important patterns in the dataset.
 
 
 
-\## Employee Distribution
+## Employee Distribution
 
 
 
@@ -622,7 +530,7 @@ A bar chart was created to compare the number of employees across departments.
 
 
 
-\## Salary Distribution
+## Salary Distribution
 
 
 
@@ -630,7 +538,7 @@ A histogram was used to understand how employee salaries are distributed.
 
 
 
-\## Average Salary by Department
+## Average Salary by Department
 
 
 
@@ -638,7 +546,7 @@ A bar chart was created to compare average salaries across departments.
 
 
 
-\## Average Performance by Department
+## Average Performance by Department
 
 
 
@@ -646,7 +554,7 @@ A bar chart was used to compare department-level performance.
 
 
 
-\## Salary vs Experience
+## Salary vs Experience
 
 
 
@@ -654,7 +562,7 @@ A scatter plot was used to investigate the relationship between employee experie
 
 
 
-\## Salary Outlier Analysis
+## Salary Outlier Analysis
 
 
 
@@ -662,11 +570,11 @@ A box plot and the Interquartile Range (IQR) method were used to examine potenti
 
 
 
-\---
+---
 
 
 
-\# 📐 Salary–Experience Correlation
+# 📐 Salary–Experience Correlation
 
 
 
