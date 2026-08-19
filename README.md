@@ -102,13 +102,6 @@ Business Insights
 
 
 
-## 🟦 Objectives
-
-
-
----
-
-
 
 # 🎯 Objectives
 
@@ -225,19 +218,12 @@ Employee-Salary-Performance-EDA/
 
 
 
-## 🟦 Dataset
-
-
-
----
-
-
 
 # 📊 Dataset Information
 
 
 
-The dataset contains information about \*\*8 employees across 4 departments\*\*.
+The dataset contains information about 8 employees across 4 departments.
 
 
 
@@ -341,7 +327,7 @@ Employee distribution was analyzed using department-level counts.
 
 | Sales | 1 |
 
-| \*\*Total\*\* | \*\*8\*\* |
+| Total | 8 |
 
 
 
@@ -407,14 +393,6 @@ These derived features help convert numerical values into meaningful categories 
 
 ---
 
-
-
-## 🟦 Statistical Analysis
-
-
-
-
----
 
 
 
@@ -586,7 +564,7 @@ The correlation between salary and experience was calculated using:
 
 df\["Experience"].corr(df\["Salary"])
 
-
+```
 
 The resulting correlation is approximately:
 
@@ -610,21 +588,13 @@ However, correlation indicates association and does not necessarily imply causat
 
 
 
-\---
+---
 
 
 
-\## 🟦 Markdown Cell 14 — Outlier Analysis
 
 
-
-```markdown
-
-\---
-
-
-
-\# 📦 Outlier Analysis
+# 📦 Outlier Analysis
 
 
 
@@ -660,99 +630,99 @@ Therefore:
 
 
 
-> \*\*No potential salary outliers were detected using the IQR method.\*\*
+> No potential salary outliers were detected using the IQR method.
 
 
 
-\---
+---
 
 
 
-\# 🔍 Key Findings
+# 🔍 Key Findings
 
 
 
-\### Workforce
+### Workforce
 
 
 
-The dataset contains \*\*8 employees across 4 departments\*\*.
+The dataset contains 8 employees across 4 departments.
 
 
 
-\### Salary
+### Salary
 
 
 
-The average employee salary is \*\*₹58,125\*\*, with salaries ranging from \*\*₹45,000 to ₹72,000\*\*.
+The average employee salary is ₹58,125, with salaries ranging from ₹45,000 to ₹72,000.
 
 
 
-\### Highest Average Salary
+### Highest Average Salary
 
 
 
-The \*\*IT department\*\* has the highest average salary at \*\*₹69,000\*\*.
+The IT department has the highest average salary at ₹69,000.
 
 
 
-\### Lowest Average Salary
+### Lowest Average Salary
 
 
 
-The \*\*HR department\*\* has the lowest average salary at \*\*₹46,500\*\*.
+The HR department has the lowest average salary at ₹46,500.
 
 
 
-\### Highest Performance
+### Highest Performance
 
 
 
-The \*\*IT department\*\* has the highest average performance score at \*\*91.67\*\*.
+The IT department has the highest average performance score at 91.67.
 
 
 
-\### Lowest Performance
+### Lowest Performance
 
 
 
-The \*\*Sales department\*\* has the lowest average performance score at \*\*75.00\*\*.
+The Sales department has the lowest average performance score at 75.00.
 
 
 
-\### Largest Department
+### Largest Department
 
 
 
-The \*\*IT department\*\* has the largest number of employees with \*\*3 employees\*\*.
+The IT department has the largest number of employees with 3 employees.
 
 
 
-\### Experience
+### Experience
 
 
 
-The average employee experience is \*\*4.25 years\*\*.
+The average employee experience is 4.25 years.
 
 
 
-\### Salary and Experience
+### Salary and Experience
 
 
 
-Salary and experience have a very strong positive correlation of approximately \*\*0.98\*\* in this dataset.
+Salary and experience have a very strong positive correlation of approximately 0.98 in this dataset.
 
 
 
-\---
+---
 
 
 
-\# 💡 Business Insights
+# 💡 Business Insights
 
 
 
-\## Workforce
+## Workforce
 
 
 
@@ -760,7 +730,7 @@ IT has the largest workforce with 3 employees, while Sales has only 1 employee. 
 
 
 
-\## Salary
+## Salary
 
 
 
@@ -772,7 +742,7 @@ The difference in average salary across departments suggests that department-lev
 
 
 
-\## Performance
+## Performance
 
 
 
@@ -784,7 +754,7 @@ The stronger performance observed in IT may warrant further investigation into f
 
 
 
-\## Salary and Experience
+## Salary and Experience
 
 
 
@@ -796,15 +766,15 @@ However, the dataset is small, so this relationship should not automatically be 
 
 
 
-\---
+---
 
 
 
-\# 💼 Business Recommendations
+# 💼 Business Recommendations
 
 
 
-\### 1. Performance Improvement
+### 1. Performance Improvement
 
 
 
@@ -812,7 +782,7 @@ Investigate the practices, training, workload, and other factors that may contri
 
 
 
-\### 2. Sales Performance
+### 2. Sales Performance
 
 
 
@@ -820,7 +790,7 @@ Review training, workload, incentives, and other factors that may help improve S
 
 
 
-\### 3. Compensation Analysis
+### 3. Compensation Analysis
 
 
 
@@ -828,7 +798,7 @@ Consider employee experience and performance when evaluating salary and compensa
 
 
 
-\### 4. Workforce Planning
+### 4. Workforce Planning
 
 
 
@@ -836,7 +806,7 @@ Consider employee distribution, department workload, experience, and performance
 
 
 
-\### 5. Further Analysis
+### 5. Further Analysis
 
 
 
@@ -844,115 +814,115 @@ Analyze additional employee attributes such as job role, tenure, education, and 
 
 
 
-\---
+---
 
 
 
-\# 📸 Project Screenshots
+# 📸 Project Screenshots
 
 
 
-\## Dataset Overview
+## Dataset Overview
 
 
 
-!\[Dataset Overview](screenshots/01\_dataset\_overview.png)
+![Dataset Overview](screenshots/01\_dataset\_overview.png)
 
 
 
-\---
+---
 
 
 
-\## Statistical Summary
+## Statistical Summary
 
 
 
-!\[Statistical Summary](screenshots/02\_statistical\_summary.png)
+![Statistical Summary](screenshots/02\_statistical\_summary.png)
 
 
 
-\---
+---
 
 
 
-\## Employee Count by Department
+## Employee Count by Department
 
 
 
-!\[Employee Count by Department](screenshots/03\_employee\_count\_by\_department.png)
+![Employee Count by Department](screenshots/03\_employee\_count\_by\_department.png)
 
 
 
-\---
+---
 
 
 
-\## Salary Distribution
+## Salary Distribution
 
 
 
-!\[Salary Distribution](screenshots/04\_salary\_distribution.png)
+![Salary Distribution](screenshots/04\_salary\_distribution.png)
 
 
 
-\---
+---
 
 
 
-\## Average Salary by Department
+## Average Salary by Department
 
 
 
-!\[Average Salary by Department](screenshots/05\_average\_salary\_by\_department.png)
+![Average Salary by Department](screenshots/05\_average\_salary\_by\_department.png)
 
 
 
-\---
+---
 
 
 
-\## Average Performance by Department
+## Average Performance by Department
 
 
 
-!\[Average Performance by Department](screenshots/06\_average\_performance\_by\_department.png)
+![Average Performance by Department](screenshots/06\_average\_performance\_by\_department.png)
 
 
 
-\---
+---
 
 
 
-\## Salary vs Experience
+## Salary vs Experience
 
 
 
-!\[Salary vs Experience](screenshots/07\_salary\_vs\_experience.png)
+![Salary vs Experience](screenshots/07\_salary\_vs\_experience.png)
 
 
 
-\---
+---
 
 
 
-\## Salary Distribution and Outliers
+## Salary Distribution and Outliers
 
 
 
-!\[Salary Boxplot](screenshots/08\_salary\_boxplot.png)
+![Salary Boxplot](screenshots/08\_salary\_boxplot.png)
 
 
 
-\---
+---
 
 
 
-\# ▶️ How to Run the Project
+# ▶️ How to Run the Project
 
 
 
-\## 1. Clone the repository
+## 1. Clone the repository
 
 
 
@@ -960,9 +930,10 @@ Analyze additional employee attributes such as job role, tenure, education, and 
 
 git clone https://github.com/MaryShaliniJ/Employee-Salary-Performance-EDA.git
 
+```
 
 
-\## 2. Navigate to the project directory
+## 2. Navigate to the project directory
 
 
 
@@ -970,9 +941,10 @@ git clone https://github.com/MaryShaliniJ/Employee-Salary-Performance-EDA.git
 
 cd Employee-Salary-Performance-EDA
 
+```
 
 
-\## 3. Install the required libraries
+## 3. Install the required libraries
 
 
 
@@ -980,9 +952,10 @@ cd Employee-Salary-Performance-EDA
 
 pip install -r requirements.txt
 
+```
 
 
-\## 4. Open Jupyter Notebook
+## 4. Open Jupyter Notebook
 
 
 
@@ -990,9 +963,10 @@ pip install -r requirements.txt
 
 jupyter notebook
 
+```
 
 
-\## 5. Open the notebook
+## 5. Open the notebook
 
 
 
@@ -1004,7 +978,7 @@ notebook/employee\_salary\_performance\_eda.ipynb
 
 
 
-\## 6. Run the notebook
+## 6. Run the notebook
 
 
 
@@ -1012,21 +986,9 @@ Run the cells sequentially to reproduce the data analysis, visualizations, stati
 
 
 
-\---
 
 
-
-\## 🟦 Python Concepts
-
-
-
-```markdown
-
-\---
-
-
-
-\# 📚 Python Concepts Demonstrated
+# 📚 Python Concepts Demonstrated
 
 
 
@@ -1034,47 +996,47 @@ This project demonstrates:
 
 
 
-\- Pandas DataFrames
+- Pandas DataFrames
 
-\- NumPy
+- NumPy
 
-\- CSV file handling
+- CSV file handling
 
-\- Dataset inspection
+- Dataset inspection
 
-\- Data cleaning
+- Data cleaning
 
-\- Missing-value detection
+- Missing-value detection
 
-\- Duplicate detection
+- Duplicate detection
 
-\- Filtering
+- Filtering
 
-\- Sorting
+- Sorting
 
-\- Grouping
+- Grouping
 
-\- Aggregation
+- Aggregation
 
-\- Feature engineering
+- Feature engineering
 
-\- Statistical analysis
+- Statistical analysis
 
-\- Correlation analysis
+- Correlation analysis
 
-\- IQR-based outlier detection
+- IQR-based outlier detection
 
-\- Data visualization
+- Data visualization
 
-\- Business insight generation
-
-
-
-\---
+- Business insight generation
 
 
 
-\# 🔮 Future Enhancements
+---
+
+
+
+# 🔮 Future Enhancements
 
 
 
@@ -1082,35 +1044,34 @@ Possible future improvements include:
 
 
 
-\- Adding a larger real-world employee dataset.
+- Adding a larger real-world employee dataset.
 
-\- Adding more HR-related variables.
+- Adding more HR-related variables.
 
-\- Performing employee-level performance analysis.
+- Performing employee-level performance analysis.
 
-\- Building an interactive dashboard using Power BI.
+- Building an interactive dashboard using Power BI.
 
-\- Creating predictive models for salary or performance.
+- Creating predictive models for salary or performance.
 
-\- Developing a Streamlit application.
+- Developing a Streamlit application.
 
-\- Adding more advanced statistical analysis.
+- Adding more advanced statistical analysis.
 
-\- Automating data refresh and reporting.
-
-
-
-\---
+- Automating data refresh and reporting.
 
 
 
-\# 👩‍💻 Author
+---
 
 
 
-\*\*Mary Shalini J\*\*
+# 👩‍💻 Author
+
+
+
+Mary Shalini J
 
 
 
 M.E. Computer Science and Engineering (Big Data Analytics)
-
