@@ -1,4 +1,4 @@
-# 📊 Employee Salary \& Performance Analysis using Python
+# 📊 Employee Salary & Performance Analysis using Python
 
 
 
@@ -14,43 +14,43 @@ The project demonstrates data inspection, data cleaning, exploratory data analys
 
 
 
-- \[Project Overview](#-project-overview)
+- [Project Overview](#-project-overview)
 
-- \[Objectives](#-objectives)
+- [Objectives](#-objectives)
 
-- \[Technologies Used](#-technologies-used)
+- [Technologies Used](#-technologies-used)
 
-- \[Project Structure](#-project-structure)
+- [Project Structure](#-project-structure)
 
-- \[Dataset Information](#-dataset-information)
+- [Dataset Information](#-dataset-information)
 
-- \[Data Analysis Process](#-data-analysis-process)
+- [Data Analysis Process](#-data-analysis-process)
 
-- \[Feature Engineering](#-feature-engineering)
+- [Feature Engineering](#-feature-engineering)
 
-- \[Statistical Analysis](#-statistical-analysis)
+- [Statistical Analysis](#-statistical-analysis)
 
-- \[Exploratory Data Analysis](#-exploratory-data-analysis)
+- [Exploratory Data Analysis](#-exploratory-data-analysis)
 
-- \[Key Findings](#-key-findings)
+- [Key Findings](#-key-findings)
 
-- \[Business Insights](#-business-insights)
+- [Business Insights](#-business-insights)
 
-- \[Business Recommendations](#-business-recommendations)
+- [Business Recommendations](#-business-recommendations)
 
-\- \[Project Screenshots](#-project-screenshots)
+- [Project Screenshots](#-project-screenshots)
 
-- \[How to Run](#-how-to-run)
+- [How to Run](#-how-to-run)
 
-- \[Python Concepts Demonstrated](#-python-concepts-demonstrated)
+- [Python Concepts Demonstrated](#-python-concepts-demonstrated)
 
-- \[Future Enhancements](#-future-enhancements)
+- [Future Enhancements](#-future-enhancements)
 
-- \[Author](#-author)
+- [Author](#-author)
 
 
 
-\---
+---
 
 
 
