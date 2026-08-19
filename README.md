@@ -54,19 +54,17 @@ The project demonstrates data inspection, data cleaning, exploratory data analys
 
 
 
-\# 📖 Project Overview
+# 📖 Project Overview
 
 
 
-The Employee Salary \& Performance Analysis project explores a sample employee dataset containing information about employee names, departments, salaries, years of experience, and performance scores.
+The Employee Salary & Performance Analysis project explores a sample employee dataset containing information about employee names, departments, salaries, years of experience, and performance scores.
 
 
 
 The project follows a complete exploratory data analysis workflow:
 
 
-
-```text
 
 Raw Dataset
 
@@ -100,7 +98,7 @@ Business Insights
 
 
 
-\---
+---
 
 
 
