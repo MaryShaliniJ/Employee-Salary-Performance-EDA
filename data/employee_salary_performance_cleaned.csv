@@ -1,0 +1,9 @@
+Name,Department,Salary,Experience,Performance,Salary_Level,Performance_Level
+Alice,HR,45000,2,78,Low,Needs Improvement
+Bob,IT,65000,5,88,High,Good
+Charlie,Finance,55000,4,82,Low,Good
+Diana,IT,70000,6,95,High,Excellent
+Ethan,Sales,50000,3,75,Low,Needs Improvement
+Fiona,HR,48000,2,80,Low,Good
+George,Finance,60000,5,90,High,Excellent
+Hannah,IT,72000,7,92,High,Excellent
